@@ -4,6 +4,7 @@
 - Mandatory to use React, TypeScript and Graphql client (urql/apollo client etc)
 - Connect to Graphql server with sockets
 - Update event odds (eg. 1.48 -> 1.55) via sockets (Graphql client)
+- For desktop UI just have a ligher gray in the background and have the content have a max-width
 
 ### Tools
 
