@@ -22,7 +22,7 @@
 
 ## Bonus points
 - Use typescript OR javascript WITH Prop-Types
-- Architecture (think how this code will grow in a huge scale app)
+- Structured code
 
 
 ### Tools
