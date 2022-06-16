@@ -20,6 +20,11 @@
 - if some selection got update with `odds = null` then this selection should not be clickable and `-` sign should be rendered instead of number
 
 
+## Bonus points
+- Use typescript OR javascript WITH Prop-Types
+- Architecture (think how this code will grow in a huge scale app)
+
+
 ### Tools
 
 - React
