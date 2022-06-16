@@ -22,7 +22,7 @@
 
 ## Bonus points
 - Use typescript OR javascript WITH Prop-Types
-- Structured code
+- Structured code (archictural)
 
 
 ### Tools
